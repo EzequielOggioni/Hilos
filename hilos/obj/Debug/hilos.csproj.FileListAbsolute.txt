@@ -1,0 +1,9 @@
+D:\VisualStudio\hilos\hilos\bin\Debug\hilos.exe.config
+D:\VisualStudio\hilos\hilos\obj\Debug\hilos.csprojResolveAssemblyReference.cache
+D:\VisualStudio\hilos\hilos\obj\Debug\hilos.Form1.resources
+D:\VisualStudio\hilos\hilos\obj\Debug\hilos.Properties.Resources.resources
+D:\VisualStudio\hilos\hilos\obj\Debug\hilos.csproj.GenerateResource.Cache
+D:\VisualStudio\hilos\hilos\bin\Debug\hilos.exe
+D:\VisualStudio\hilos\hilos\bin\Debug\hilos.pdb
+D:\VisualStudio\hilos\hilos\obj\Debug\hilos.exe
+D:\VisualStudio\hilos\hilos\obj\Debug\hilos.pdb
