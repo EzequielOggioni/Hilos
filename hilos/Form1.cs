@@ -31,7 +31,7 @@ namespace hilos
             n3.MuestraNumeroEvent += mostrar;
             n4.MuestraNumeroEvent += mostrar;
 
-            
+
             hilos.Add(new Thread(n1.sumar));
             hilos.Add(new Thread(n2.sumar));
             hilos.Add(new Thread(n3.sumar));
@@ -39,14 +39,14 @@ namespace hilos
 
             foreach (Thread t in hilos)
             {
-                
+
                 t.Start();
             }
         }
 
-       public void mostrar(int num, int posicion)
+        public void mostrar(int num, int posicion)
         {
-            
+
             switch (posicion)
             {
                 case 1:
@@ -102,18 +102,82 @@ namespace hilos
 
         }
 
-       private void Form1_FormClosing(object sender, FormClosingEventArgs e)
-       {
-           foreach (Thread t in hilos)
-           {
-               if (t.IsAlive)
-                   t.Abort();
-           }
-       }
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            foreach (Thread t in hilos)
+            {
+                if (t.IsAlive)
+                    t.Abort();
 
-       private void button2_Click(object sender, EventArgs e)
-       {
-           
-       }
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (hilos[1].IsAlive)
+                hilos[1].Abort();
+            else
+            {
+                Numero n1 = new Numero(2);
+                n1.Num = int.Parse(txt2.Text);
+                n1.MuestraNumeroEvent += mostrar;
+
+
+                hilos[1] = new Thread(n1.sumar);
+                hilos[1].Start();
+
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (hilos[0].IsAlive)
+                hilos[0].Abort();
+            else
+            {
+                Numero n1 = new Numero(1);
+                n1.Num = int.Parse(txt1.Text);
+                n1.MuestraNumeroEvent += mostrar;
+
+
+                hilos[0] = new Thread(n1.sumar);
+                hilos[0].Start();
+
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (hilos[2].IsAlive)
+                hilos[2].Abort();
+            else
+            {
+                Numero n1 = new Numero(3);
+                n1.Num = int.Parse(txt3.Text);
+                n1.MuestraNumeroEvent += mostrar;
+
+
+                hilos[2] = new Thread(n1.sumar);
+                hilos[2].Start();
+
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            if (hilos[3].IsAlive)
+                hilos[3].Abort();
+            else
+            {
+                Numero n1 = new Numero(4);
+                n1.Num = int.Parse(txt4.Text);
+                n1.MuestraNumeroEvent += mostrar;
+
+
+                hilos[3] = new Thread(n1.sumar);
+                hilos[3].Start();
+
+            }
+        }
     }
 }

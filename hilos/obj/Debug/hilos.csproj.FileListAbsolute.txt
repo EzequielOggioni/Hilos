@@ -7,3 +7,12 @@ D:\VisualStudio\hilos\hilos\bin\Debug\hilos.exe
 D:\VisualStudio\hilos\hilos\bin\Debug\hilos.pdb
 D:\VisualStudio\hilos\hilos\obj\Debug\hilos.exe
 D:\VisualStudio\hilos\hilos\obj\Debug\hilos.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Hilos\hilos\bin\Debug\hilos.exe.config
+C:\Users\alumno\Desktop\Nueva carpeta\Hilos\hilos\obj\Debug\hilos.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Hilos\hilos\obj\Debug\hilos.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Hilos\hilos\bin\Debug\hilos.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Hilos\hilos\bin\Debug\hilos.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Hilos\hilos\obj\Debug\hilos.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Nueva carpeta\Hilos\hilos\obj\Debug\hilos.Form1.resources
+C:\Users\alumno\Desktop\Nueva carpeta\Hilos\hilos\obj\Debug\hilos.Properties.Resources.resources
+C:\Users\alumno\Desktop\Nueva carpeta\Hilos\hilos\obj\Debug\hilos.csproj.GenerateResource.Cache

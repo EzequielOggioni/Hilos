@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace hilos
@@ -25,10 +26,17 @@ namespace hilos
         {
             while(Num < 5000)
             {
+                try
+                {
                 
-            System.Threading.Thread.Sleep(40);
-            Num++;
-            MuestraNumeroEvent.Invoke(Num, posicion);
+                    System.Threading.Thread.Sleep(40);
+                    Num++;
+                    MuestraNumeroEvent.Invoke(Num, posicion);
+                }
+                catch (ThreadInterruptedException e)
+                {
+                    
+                }
             }
             
         }
