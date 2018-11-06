@@ -8,3 +8,14 @@ C:\Users\alumno\Desktop\Nueva carpeta\Hilos\WindowsFormsApp1\obj\Debug\WindowsFo
 C:\Users\alumno\Desktop\Nueva carpeta\Hilos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\Nueva carpeta\Hilos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\alumno\Desktop\Nueva carpeta\Hilos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Facu\git\Hilos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Facu\git\Hilos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Facu\git\Hilos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Facu\git\Hilos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Facu\git\Hilos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmJuego.resources
+C:\Facu\git\Hilos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Facu\git\Hilos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Facu\git\Hilos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Facu\git\Hilos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Facu\git\Hilos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Facu\git\Hilos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRecords.resources

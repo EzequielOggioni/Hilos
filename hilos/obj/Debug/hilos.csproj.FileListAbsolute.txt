@@ -17,3 +17,13 @@ C:\Users\alumno\Desktop\Nueva carpeta\Hilos\hilos\obj\Debug\hilos.Properties.Res
 C:\Users\alumno\Desktop\Nueva carpeta\Hilos\hilos\obj\Debug\hilos.csproj.GenerateResource.Cache
 C:\Users\alumno\Desktop\Nueva carpeta\Hilos\hilos\obj\Debug\hilos.csprojAssemblyReference.cache
 C:\Users\alumno\Desktop\Nueva carpeta\Hilos\hilos\obj\Debug\hilos.csproj.CoreCompileInputs.cache
+C:\Facu\git\Hilos\hilos\bin\Debug\hilos.exe.config
+C:\Facu\git\Hilos\hilos\bin\Debug\hilos.exe
+C:\Facu\git\Hilos\hilos\bin\Debug\hilos.pdb
+C:\Facu\git\Hilos\hilos\obj\Debug\hilos.csprojResolveAssemblyReference.cache
+C:\Facu\git\Hilos\hilos\obj\Debug\hilos.Form1.resources
+C:\Facu\git\Hilos\hilos\obj\Debug\hilos.Properties.Resources.resources
+C:\Facu\git\Hilos\hilos\obj\Debug\hilos.csproj.GenerateResource.Cache
+C:\Facu\git\Hilos\hilos\obj\Debug\hilos.csproj.CoreCompileInputs.cache
+C:\Facu\git\Hilos\hilos\obj\Debug\hilos.exe
+C:\Facu\git\Hilos\hilos\obj\Debug\hilos.pdb

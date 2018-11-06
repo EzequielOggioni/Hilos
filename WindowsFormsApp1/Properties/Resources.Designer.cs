@@ -63,9 +63,39 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ciudad {
+            get {
+                object obj = ResourceManager.GetObject("ciudad", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Diamonds_The_Thief_printed_image_on_token_1024x1024 {
+            get {
+                object obj = ResourceManager.GetObject("Diamonds-The-Thief-printed-image-on-token-1024x1024", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Jellyfish {
             get {
                 object obj = ResourceManager.GetObject("Jellyfish", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ladron {
+            get {
+                object obj = ResourceManager.GetObject("ladron", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
